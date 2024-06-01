@@ -1,4 +1,4 @@
-package JavaConcepts;
+package src.main.java.basicJavaConcepts;
 
 public class Operators {
 	public static void main(String[] args) {

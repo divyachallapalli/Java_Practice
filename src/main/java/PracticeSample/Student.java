@@ -1,4 +1,4 @@
-package PracticeSample;
+package src.main.java.PracticeSample;
 
 public class Student {
 

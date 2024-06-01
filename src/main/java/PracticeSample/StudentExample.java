@@ -1,4 +1,4 @@
-package PracticeSample;
+package src.main.java.PracticeSample;
 //execution starts with class with the main method
 public class StudentExample {
 	

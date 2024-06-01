@@ -1,4 +1,4 @@
-package JavaConcepts;
+package src.main.java.basicJavaConcepts;
 
 public class NonPrimitiveDataTypes {
 

@@ -1,4 +1,4 @@
-package JavaConcepts;
+package src.main.java.basicJavaConcepts;
 import java.util.Scanner;
 
 public class ControlStatements {
